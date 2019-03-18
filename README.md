@@ -14,19 +14,18 @@
   
 <h2 id="1"> 线性布局</h2>
 
-  * [Back](#0)
-<br/>
-![Alt](https://raw.githubusercontent.com/BarongDog/Android_Test_1_and_2/master/screenshot/test2/linear_layout.png)
 
+![Alt](https://raw.githubusercontent.com/BarongDog/Android_Test_1_and_2/master/screenshot/test2/linear_layout.png)
+* [Back](#0)
+<br/>
 <h2 id="2">约束布局</h2>
 
+
+![Alt](https://raw.githubusercontent.com/BarongDog/Android_Test_1_and_2/master/screenshot/test2/constraint_layout.png)
   * [Back](#0)
   <br/>
-![Alt](https://raw.githubusercontent.com/BarongDog/Android_Test_1_and_2/master/screenshot/test2/constraint_layout.png)
-
 <h2 id="3">表格布局</h2>
 
+![Alt](https://raw.githubusercontent.com/BarongDog/Android_Test_1_and_2/master/screenshot/test2/table_layout.png)
   * [Back](#0)
 <br/>
-![Alt](https://raw.githubusercontent.com/BarongDog/Android_Test_1_and_2/master/screenshot/test2/table_layout.png)
-
